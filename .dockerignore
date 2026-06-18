@@ -1,0 +1,11 @@
+node_modules
+.git
+.gitignore
+uploads
+test_uploads
+.env
+.env.example
+tests
+AGENTS.md
+drizzle.config.ts
+docker-compose.yml
